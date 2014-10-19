@@ -10,7 +10,7 @@ defmodule Atlas.Mixfile do
       package: [
         contributors: ["Chris McCord", "Sonny Scroggin"],
         licenses: ["MIT"],
-        links: [github: "https://github.com/chrismccord/atlas"]
+        links: %{"GitHub" => "https://github.com/chrismccord/atlas"}
       ],
       description: """
       Object Relational Mapper for Elixir
